@@ -1,0 +1,3 @@
+/Users/anoop/projects/playground/cMake/CMakeFiles/cmake-good.dir
+/Users/anoop/projects/playground/cMake/CMakeFiles/edit_cache.dir
+/Users/anoop/projects/playground/cMake/CMakeFiles/rebuild_cache.dir
